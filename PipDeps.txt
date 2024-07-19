@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+ovr
+pyntcore
+pyusb
+=======
+rel
+websocket-client (NOT websockets)
+pyntcore
+>>>>>>> 2cac0497ee0ab336d77dd4d0f1d7a8abe6e172c9
